@@ -1,41 +1,64 @@
-🌟 Features
-✅ Doctor Profiles – Browse detailed profiles of experienced doctors with qualifications, specializations, and availability.
-✅ Online Appointments – Easy scheduling system for patients to book consultations with their preferred doctor.
-✅ Telemedicine Support – Secure video consultations for remote healthcare services.
-✅ Patient Dashboard – Manage medical history, prescriptions, and appointment schedules.
-✅ Blog & Health Articles – Stay updated with the latest medical trends and health tips.
-✅ Secure & Private – Fully encrypted patient data protection and privacy policies.
+# 🏥 Hospital Website Project
 
-🛠️ Technologies Used
-🔹 Frontend: HTML, CSS, JavaScript, React.js (or any other framework used)
-🔹 Backend: Node.js, Express, Django, or Laravel (whichever is used)
-🔹 Database: MySQL, MongoDB, PostgreSQL
-🔹 APIs: Google Maps API (for location-based services), Payment Gateway APIs, etc.
+### 🌟 Features
+- ✅ **Doctor Profiles** – Detailed profiles with qualifications, specializations, and availability.
+- ✅ **Online Appointments** – Easy scheduling for patients to book consultations.
+- ✅ **Telemedicine Support** – Secure video consultations for remote healthcare.
+- ✅ **Patient Dashboard** – Manage medical history, prescriptions, and schedules.
+- ✅ **Blog & Health Articles** – Stay informed with medical trends and health tips.
+- ✅ **Secure & Private** – Encrypted patient data protection and privacy policies.
 
-🚀 Installation & Setup
-Follow these steps to set up the project on your local machine:
+---
 
-1️⃣ Clone the repository:
+### 🛠️ Technologies Used
+- **Frontend:** HTML, CSS, JavaScript, React.js (or chosen framework)
+- **Backend:** Node.js, Express, Django, or Laravel (depending on stack)
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **APIs:** Google Maps API (for location services), Payment Gateway APIs
 
-sh
-Copy
-Edit
+---
+
+### 🚀 Installation & Setup
+1️⃣ **Clone the repository:**  
+```bash
 git clone https://github.com/ayushiraut01/Hospital-website
-2️⃣ Navigate to the project directory:
-cd doctor-website
-3️⃣ Install dependencies:
-npm install   # for Node.js projects  
-pip install -r requirements.txt  # for Python projects  
-4️⃣ Start the development server:
-npm start   # for React/Node.js  
-python manage.py runserver  # for Django 
+```
 
-💡 Contributing
-We welcome contributions! If you’d like to improve this project, feel free to:
+2️⃣ **Navigate to the project directory:**  
+```bash
+cd hospital-website
+```
 
-Fork the repository
-Create a new branch
-Commit your changes
-Submit a pull request
+3️⃣ **Install dependencies:**  
+- For Node.js Projects:  
+```bash
+npm install
+```
+- For Python Projects:  
+```bash
+pip install -r requirements.txt
+```
 
+4️⃣ **Start the development server:**  
+- For React/Node.js Projects:  
+```bash
+npm start
+```
+- For Django Projects:  
+```bash
+python manage.py runserver
+```
+
+---
+
+### 💡 Contributing
+We welcome contributions! Follow these steps:
+1. **Fork** the repository.
+2. **Create** a new branch.
+3. **Commit** your changes.
+4. **Submit** a pull request.
+
+---
+
+This version provides a clear and organized structure with sections separated for easy reading. Let me know if you'd like any adjustments! 😊
 

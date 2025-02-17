@@ -60,5 +60,4 @@ We welcome contributions! Follow these steps:
 
 ---
 
-This version provides a clear and organized structure with sections separated for easy reading. Let me know if you'd like any adjustments! 😊
 
